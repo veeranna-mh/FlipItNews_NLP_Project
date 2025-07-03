@@ -64,10 +64,10 @@ The dataset consists of two columns:
 
 | Model           | Train Accuracy | Test Accuracy |
 |----------------|----------------|---------------|
-| Naive Bayes     | *e.g., 93.2%*   | *91.5%*        |
-| Decision Tree   | *100.0%*        | *80.2%*        |
-| KNN             | *92.6%*         | *90.1%*        |
-| Random Forest   | *100.0%*        | *87.0%*        |
+| Naive Bayes     | 98.92%        | 96.94%        |
+| Decision Tree   | 100.0%        | 80.25%        |
+| KNN             | 96.04%        | 93.89%        |
+| Random Forest   | 100.0%        | 95.51%        |
 
 > 📌 *Naive Bayes* and *KNN* showed balanced performance without overfitting.  
 > 📌 *Random Forest* and *Decision Tree* had overfitting issues (high training accuracy, lower test accuracy).
